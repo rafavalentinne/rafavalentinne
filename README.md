@@ -8,15 +8,16 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🇧🇷 Brasileiro vivendo na Espanha 🇪🇸 Madrid
-- 💼 Empresário no setor financeiro e desenvolvedor por paixão
-- 🤖 Automação, bots, APIs e soluções com Python
-- 🎯 Em busca de soluções simples para problemas complexos
+- 🇧🇷 Brasileiro vivendo na Espanha 🇪🇸 Madrid  
+- 💼 Empresário no setor financeiro e desenvolvedor por paixão  
+- 🤖 Automação, bots, APIs e sistemas com Python e Java  
+- 🎯 Em busca de soluções simples para problemas complexos  
 
 ---
 
 ### 🚀 Tecnologias que uso
 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -28,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafavalentinne&show_icons=true&theme=radical" width="47%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavalentinne&layout=compact&theme=radical" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafavalentinne&show_icons=true&theme=radical&cache_seconds=86400" width="47%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafavalentinne&layout=compact&theme=radical&cache_seconds=86400" width="47%">
 </p>
 
 ---
