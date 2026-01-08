@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats (provedor alternativo)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafavalentinne&theme=github_dark" width="98%" />
